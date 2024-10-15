@@ -1,10 +1,8 @@
 # PEROGRAM MANIPULASI WARNA PADA CITRA MENGGUNAKAN OPEN CV 
+Menggunakan Bahasa Python
 
 
-# Menggunakan Bahasa Python
-
-
-# yang Source ini dapat lakukan 
+yang Source ini dapat lakukan 
     - Merubah warna jadi BGRGRAY 
     - Merubah warna jadi BGR2HSV
     - Merubah warna jadi BGR2RGB
